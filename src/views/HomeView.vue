@@ -97,14 +97,14 @@ const getTypedElement = (element: HTMLElement, values: Array<string>, loop: bool
 
 onMounted(() => {
   if (typedElement.value) 
-    getTypedElement(typedElement.value, ['front-end developer', 'full stack engineer', 'web designer']);
+    getTypedElement(typedElement.value, ['Web Scraping Ninja', 'Automation Wizard', 'Crawling Expert']);
   if (service1.value) 
-    getTypedElement(service1.value, ['Web Development'], false);
+    getTypedElement(service1.value, ['Custom Scraping Solution'], false);
   if (service2.value) 
-    getTypedElement(service2.value, ['Scripting and Automation'], false);
+    getTypedElement(service2.value, ['Automated Workflow Creation'], false);
   if (service3.value) 
-    getTypedElement(service3.value, ['Mobile App Development'], false);
+    getTypedElement(service3.value, ['Browser Automation'], false);
   if (service4.value) 
-    getTypedElement(service4.value, ['Desktop App Development'], false);
+    getTypedElement(service4.value, ['Apify Actor Development'], false);
 })
 </script>
