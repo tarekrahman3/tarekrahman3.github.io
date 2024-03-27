@@ -1,7 +1,7 @@
 <template>
   <main class="container">
     <div class="text-center pt-16">
-      <p class="text-3xl text-white">// HI, I'M RIJVY, A...</p>
+      <p class="text-3xl text-white">// HI, I'M TAREK, A...</p>
       <div class="text-8xl text-cyan-700">
         <span>{" </span>
         <span ref="typedElement"></span>
