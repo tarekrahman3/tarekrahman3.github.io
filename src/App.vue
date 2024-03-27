@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header class="container">
     <nav class="flex justify-between items-center">
       <section class="flex flex-col justify-start items-end">
-        <p class="text-3xl">// rijvy</p>
+        <p class="text-3xl">// tarek</p>
         <p class="text-xl text-blue-700">web dev</p>
       </section>
       <section class="nav-items">
