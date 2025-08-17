@@ -1,6 +1,6 @@
 title: "My Blog"
 description: "Thoughts, notes, and tutorials"
-theme: minima   # GitHub Pages–supported Jekyll theme
+theme: jekyll-theme-cayman   # GitHub Pages–supported Jekyll theme
 # Optional goodies that GitHub Pages supports:
 plugins:
   - jekyll-feed
