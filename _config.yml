@@ -1,0 +1,19 @@
+title: "My Blog"
+description: "Thoughts, notes, and tutorials"
+theme: minima   # GitHub Pages–supported Jekyll theme
+# Optional goodies that GitHub Pages supports:
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Show pages in the top nav (minima reads this):
+header_pages:
+  - about.md
+
+# Site options
+author: "Your Name"
+timezone: "Asia/Dhaka"
+
+# URL settings (GitHub will fill these automatically in production)
+url: "https://yourusername.github.io"
