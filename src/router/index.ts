@@ -36,7 +36,7 @@ const router = createRouter({
     },{
       path: '/scraping',
       name: 'scraping',
-      component: () => import('../views/posts/scraping.vue')
+      component: () => import('../views/Scraping.vue')
     }
   ]
 })
